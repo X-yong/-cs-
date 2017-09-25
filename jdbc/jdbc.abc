@@ -1,0 +1,4 @@
+ DRIVER = oracle.jdbc.driver.OracleDriver
+ URL    =jdbc:oracle:thin:@123.206.50.49:1521:orcl
+ USER   =scott
+ KEY    =123
